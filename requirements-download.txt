@@ -1,0 +1,12 @@
+# Optional dependencies for downloading and converting documents
+# Install with: pip install -r requirements-download.txt
+
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Progress bars (optional)
+tqdm>=4.66.0

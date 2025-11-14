@@ -12,6 +12,7 @@ This document provides instructions for downloading all publicly available Epste
 
 - **DOJ Sep 2025 (33,295 pages)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0)
 - **Estate Nov 2025 (20,000+ pages)**: [Google Drive Folder](https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR)
+- **Estate Sep 2025 (2,000-5,000 pages est.)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/azl4abiwwixtvezmz0617/ANVZACgh4aPQ-TcxCKi0FDw?rlkey=aqg68si6y246f2b15kro9zmqh&e=2&st=7nh3wzuq&dl=0)
 - **Court Documents (Free)**: [Court Listener](https://www.courtlistener.com/) - *Search: "Giuffre Maxwell"*
 
 ---
@@ -55,12 +56,20 @@ This document provides instructions for downloading all publicly available Epste
 **Key Content**: Includes Epstein email to Michael Wolff (Jan 31, 2019) stating Trump "knew about the girls."
 
 ### 3. House Oversight - Earlier Estate Documents (September 2025)
-- **Pages**: Additional tranche
+- **Pages**: Additional tranche (estimated 2,000-5,000 pages)
 - **Released**: September 8-9, 2025
 - **Source**: Epstein Estate
 - **Content**: "Birthday book," emails, correspondence
 - **Official Page**: https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/
-- **Status**: ⏳ **Not yet downloaded**
+- **Direct Download**: https://www.dropbox.com/scl/fo/azl4abiwwixtvezmz0617/ANVZACgh4aPQ-TcxCKi0FDw?rlkey=aqg68si6y246f2b15kro9zmqh&e=2&st=7nh3wzuq&dl=0
+- **Status**: ✅ **Ready to download** (Dropbox link available)
+
+**Download Instructions**:
+1. Click the Dropbox link above
+2. Click "Download" → "Download Folder" to get all files
+3. Extract the ZIP archive if needed
+4. Move files to `/documents/estate_sep_2025/`
+5. Convert PDFs to text and rebuild index
 
 ### 4. Bloomberg News - Yahoo Email Investigation
 - **Documents**: 18,000+ emails

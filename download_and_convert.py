@@ -50,6 +50,15 @@ DOCUMENT_SOURCES = {
             # Consider using gdown or rclone for automation
         ]
     },
+    "estate_sep_2025": {
+        "dir": DOCS_DIR / "estate_sep_2025",
+        "description": "Epstein Estate September 2025 (2,000-5,000 pages est.)",
+        "dropbox_folder": "https://www.dropbox.com/scl/fo/azl4abiwwixtvezmz0617/ANVZACgh4aPQ-TcxCKi0FDw?rlkey=aqg68si6y246f2b15kro9zmqh&e=2&st=7nh3wzuq&dl=0",
+        "urls": [
+            # Note: Dropbox folder links require manual download via browser
+            # For individual file URLs, add them here for automated download
+        ]
+    },
     "court_docs": {
         "dir": DOCS_DIR / "court_documents",
         "description": "Court Documents",

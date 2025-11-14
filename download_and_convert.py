@@ -43,8 +43,11 @@ DOCUMENT_SOURCES = {
     "estate_nov_2025": {
         "dir": DOCS_DIR / "house_oversight_nov_2025",
         "description": "Epstein Estate November 2025 (20,000 pages)",
+        "google_drive_folder": "https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR",
         "urls": [
-            # Add PDF download links here when identified
+            # Note: Google Drive folder links require manual download via browser
+            # For individual file URLs, add them here for automated download
+            # Consider using gdown or rclone for automation
         ]
     },
     "court_docs": {
@@ -277,6 +280,11 @@ def list_sources():
             print(f"  Dropbox Folder: {source['dropbox_folder']}")
             print(f"  Note: Download manually via browser (Dropbox folder link)")
 
+        # Show Google Drive folder if available
+        if 'google_drive_folder' in source:
+            print(f"  Google Drive Folder: {source['google_drive_folder']}")
+            print(f"  Note: Download manually via browser (Google Drive folder link)")
+
         print(f"  URLs configured: {len(source['urls'])}")
 
         # Determine status
@@ -284,6 +292,8 @@ def list_sources():
             status = "Ready for automated download"
         elif 'dropbox_folder' in source:
             status = "Manual download available (Dropbox)"
+        elif 'google_drive_folder' in source:
+            status = "Manual download available (Google Drive)"
         else:
             status = "URLs not configured"
 

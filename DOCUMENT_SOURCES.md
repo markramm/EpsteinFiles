@@ -11,7 +11,7 @@ This document provides instructions for downloading all publicly available Epste
 ### Ready to Download Now
 
 - **DOJ Sep 2025 (33,295 pages)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0)
-- **Estate Nov 2025 (20,000+ pages)**: [House Oversight Page](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/) - *Look for download links on page*
+- **Estate Nov 2025 (20,000+ pages)**: [Google Drive Folder](https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR)
 - **Court Documents (Free)**: [Court Listener](https://www.courtlistener.com/) - *Search: "Giuffre Maxwell"*
 
 ---
@@ -42,8 +42,15 @@ This document provides instructions for downloading all publicly available Epste
 - **Source**: Epstein Estate
 - **Content**: Emails (including Trump mentions), financial documents, court records
 - **Official Page**: https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/
-- **Access**: PDF downloads on official page
-- **Status**: ⏳ **Not yet downloaded**
+- **Direct Download**: https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR
+- **Status**: ✅ **Ready to download** (Google Drive link available)
+
+**Download Instructions**:
+1. Click the Google Drive link above
+2. Click "Download" or three dots menu (⋮) to download folder as ZIP
+3. Extract the ZIP archive
+4. Move files to `/documents/house_oversight_nov_2025/`
+5. Convert PDFs to text and rebuild index
 
 **Key Content**: Includes Epstein email to Michael Wolff (Jan 31, 2019) stating Trump "knew about the girls."
 

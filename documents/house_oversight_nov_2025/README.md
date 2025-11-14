@@ -5,20 +5,45 @@
 **Source**: Estate of Jeffrey Epstein (via House Oversight Committee)
 **Status**: ⏳ **Not yet downloaded**
 
+## Direct Download Link
+
+**Google Drive Folder**: https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR
+
 ## How to Download
 
-1. Visit: https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/
-2. Download PDF files from the page
-3. Save to this directory: `/documents/house_oversight_nov_2025/`
-4. Convert PDFs to text:
+### Method 1: Direct Google Drive Download (Recommended)
+
+1. **Visit the Google Drive link above**
+2. **Download the entire folder**:
+   - Click on the folder name
+   - Click the three dots menu (⋮) or "Download" button
+   - Select "Download" to get all files as ZIP
+   - Or download individual files if preferred
+3. **Extract downloaded files** (if ZIP archive)
+4. **Move files to this directory**: `/documents/house_oversight_nov_2025/`
+5. **Convert PDFs to text**:
    ```bash
    cd /path/to/EpsteinFiles
    python download_and_convert.py --convert documents/house_oversight_nov_2025/
    ```
-5. Rebuild search index:
+6. **Rebuild search index**:
    ```bash
    python search_index.py --force
    ```
+
+### Method 2: Automated Download (Advanced)
+
+For programmatic download, you can use Google Drive CLI tools like `gdown` or `rclone`:
+
+```bash
+# Using gdown (install: pip install gdown)
+# Note: May require authentication for large folders
+
+# Or use the download script (requires direct file URLs)
+python download_and_convert.py --download estate_nov_2025
+```
+
+**Note**: Google Drive folder links work best with browser download. For automation, consider using `rclone` with Google Drive integration.
 
 ## Contents
 

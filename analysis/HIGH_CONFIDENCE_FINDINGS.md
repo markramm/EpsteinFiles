@@ -9,6 +9,8 @@
 
 ## Executive Summary
 
+**Transparency & Advocacy**: This document is part of our effort to promote transparency and accountability by demonstrating what systematic analysis of public documents can reveal. We support the complete release of all Epstein-related documents.
+
 This document presents **only the highest-confidence findings** from systematic analysis of the 2,895 Epstein documents released by the House Oversight Committee. All findings are:
 
 - ✅ **Tier 1 Evidence**: Direct database records, document mentions, or verifiable public records
@@ -16,7 +18,10 @@ This document presents **only the highest-confidence findings** from systematic 
 - ✅ **Conservative**: No speculation or inference beyond what documents directly support
 - ✅ **Time-Stamped**: All policy connections have verifiable dates
 
-**Why This Matters**: The Epstein Transparency Act is being voted on **November 18-20, 2025**. These findings demonstrate what transparency enables - and what we still don't know because thousands of documents remain sealed.
+**Why This Matters - And Why Now**: The **Epstein Transparency Act** is being voted on **November 18-20, 2025**. This document is released to support that legislation by demonstrating:
+1. What transparency enables when documents are public and searchable
+2. What we still don't know because thousands of documents remain sealed
+3. Why the public deserves full access to government-released information
 
 ---
 

@@ -7,16 +7,28 @@
 
 This open-source tool provides fast, full-text search capabilities for the Jeffrey Epstein documents released by the House Oversight Committee. It uses the Whoosh search library to enable researchers, journalists, and the public to quickly find relevant information across thousands of documents.
 
+**Mission**: This is a **transparency and accountability tool** designed to promote public access to government-released documents and support informed civic engagement. We believe sunlight is the best disinfectant, and that citizens deserve searchable access to documents their representatives have made public.
+
 ---
 
-## 🎯 Purpose
+## 🎯 Purpose & Advocacy
 
-The House Oversight Committee has released 2,895 documents related to Jeffrey Epstein, but searching through them manually is time-consuming and difficult. This tool:
+The House Oversight Committee has released 2,895 documents related to Jeffrey Epstein, but searching through them manually is time-consuming and difficult. **This tool is designed to promote transparency and accountability** by making these public documents easily searchable and enabling citizens to verify claims, conduct research, and hold powerful institutions accountable.
+
+### What This Tool Does:
 
 - **Indexes all 2,895 documents** for instant full-text search
 - **Provides a web interface** for easy searching
 - **Offers a RESTful API** for programmatic access
 - **Enables reproducible research** - others can verify findings
+- **Demonstrates what transparency enables** - cross-referencing reveals patterns that scattered documents conceal
+
+### Our Advocacy Goals:
+
+1. **Full transparency**: Support the release of all Epstein-related documents, including those still sealed
+2. **Public empowerment**: Enable citizens to search and verify information themselves
+3. **Accountability**: Help journalists, researchers, and advocates identify patterns and connections
+4. **Reproducible research**: All findings can be independently verified using this tool
 
 This tool was used to conduct the offshore financial infrastructure research documented in the [Master Integrated Report](analysis/MASTER_INTEGRATED_REPORT_PHASES_1_2_3.md).
 
@@ -440,17 +452,21 @@ When using this tool for research:
 
 ### Legal Disclaimer
 
-**This tool provides search functionality only. Users are responsible for:**
+**Advocacy & Responsibility**: While this tool is created to promote transparency and accountability, users remain fully responsible for how they use it.
+
+**Users are responsible for:**
 - Verifying information before publication
 - Complying with defamation and privacy laws
 - Using findings ethically and responsibly
 - Respecting victim privacy and dignity
+- Distinguishing between documented facts and interpretations
 
 **The creators of this tool:**
 - Make no claims about the accuracy of underlying documents
 - Are not responsible for user interpretations or conclusions
 - Provide this tool "as is" without warranty
-- Do not endorse any particular findings or theories
+- Advocate for transparency while maintaining research standards
+- Support full document release but do not endorse any particular findings or theories
 
 ---
 
@@ -661,14 +677,18 @@ After setting up the search tool:
 
 ## ⚠️ Important Notes
 
-### Why This Tool Matters
+### Why This Tool Matters - And Why Now
 
-The Epstein Transparency Act is being voted on **next week** (November 18-20, 2025) in the House of Representatives. This tool demonstrates:
+**Transparency Advocacy**: This tool is being released to support the **Epstein Transparency Act**, being voted on **next week** (November 18-20, 2025) in the House of Representatives. We believe this vote is a critical moment for government transparency and accountability.
 
-1. **What transparency enables** - Cross-referencing reveals hidden patterns
-2. **Why full release matters** - Thousands of documents remain sealed
-3. **How the public benefits** - Anyone can now search and verify
-4. **What we still don't know** - Much information remains concealed
+**What This Tool Demonstrates**:
+
+1. **What transparency enables** - Cross-referencing reveals patterns that scattered documents conceal
+2. **Why full release matters** - Thousands of documents remain sealed, limiting public understanding
+3. **How the public benefits** - Anyone can now search, verify, and conduct independent research
+4. **What we still don't know** - Much information remains concealed, demonstrating the need for full release
+
+**Our Position**: We advocate for the **complete release of all Epstein-related documents**, including those still sealed. This tool shows what's possible when documents are public - and highlights what remains hidden.
 
 ### Call to Action
 

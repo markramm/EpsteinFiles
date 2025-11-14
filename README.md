@@ -49,7 +49,7 @@ This tool was used to conduct the offshore financial infrastructure research doc
 
 ```bash
 # Clone repository (if on GitHub)
-git clone https://github.com/YOUR_USERNAME/epstein-files-search.git
+git clone https://github.com/markramm/EpsteinFiles.git
 cd epstein-files-search
 
 # Or download and extract ZIP

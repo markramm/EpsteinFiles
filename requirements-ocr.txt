@@ -1,0 +1,24 @@
+# OCR dependencies for image-based documents
+# Install with: pip install -r requirements-ocr.txt
+
+# OCR engine
+pytesseract>=0.3.10
+
+# Image processing
+Pillow>=10.0.0
+pdf2image>=1.16.0
+
+# PDF handling with OCR support
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+
+# Progress tracking
+tqdm>=4.66.0
+
+# HTTP requests (for downloads)
+requests>=2.31.0
+
+# NOTE: You also need to install Tesseract OCR system package:
+# Ubuntu/Debian: sudo apt-get install tesseract-ocr
+# macOS: brew install tesseract
+# Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki

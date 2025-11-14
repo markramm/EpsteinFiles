@@ -6,6 +6,29 @@ This document provides instructions for downloading all publicly available Epste
 
 ---
 
+## ⚠️ IMPORTANT: Image-Based Documents Require OCR
+
+**Most of these documents are scanned images** (not text-based PDFs), which means they require **OCR (Optical Character Recognition)** to become searchable. This is a time-intensive process:
+
+- **Processing time**: 50-100 hours for all 60,000 pages
+- **Requirements**: Tesseract OCR + pdf2image + patience
+- **See**: [OCR_GUIDE.md](OCR_GUIDE.md) for complete instructions
+
+**Quick OCR workflow**:
+```bash
+# 1. Install OCR tools
+sudo apt-get install tesseract-ocr poppler-utils  # Linux
+pip install -r requirements-ocr.txt
+
+# 2. Process documents
+python ocr_documents.py documents/doj_release_sep_2025/
+
+# 3. Rebuild index
+python search_index.py --force
+```
+
+---
+
 ## Quick Links
 
 ### Ready to Download Now

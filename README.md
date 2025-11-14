@@ -292,9 +292,15 @@ Health check endpoint.
 This tool was used to conduct comprehensive research documented in:
 
 - **[Master Integrated Report](analysis/MASTER_INTEGRATED_REPORT_PHASES_1_2_3.md)** - 33,000-word comprehensive analysis
+- **[High-Confidence Findings](analysis/HIGH_CONFIDENCE_FINDINGS.md)** - Tier 1 evidence only (document mentions & public records)
 - **[Phase 1: Intelligence Networks](analysis/PHASE_1_2_INTEGRATED_REPORT.md)** - Mossad, CIA, Russian connections
 - **[Phase 2: Financial Infrastructure](analysis/phase2_financial/)** - 46+ offshore entities discovered
 - **[Phase 3: Political Capture](analysis/phase3_political_capture.json)** - 12 compromised officials analyzed
+
+### Related Research Tools
+
+The offshore entity research was cross-referenced with the **ICIJ Offshore Leaks Database**:
+- **[Offshore Leaks Data Packages](https://github.com/markramm/offshoreleaks-data-packages)** - Searchable database of 810,000+ offshore entities from Panama Papers, Paradise Papers, Pandora Papers, and other leaks
 
 ### Key Search Queries Used in Research
 
@@ -622,8 +628,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - **House Oversight Committee** for releasing the Epstein files
 - **Whoosh developers** for the excellent search library
-- **ICIJ** for offshore leaks database methodology
-- **All researchers and journalists** working on transparency
+- **ICIJ** (International Consortium of Investigative Journalists) for offshore leaks database and methodology
+- **Offshore Leaks Database contributors** - Cross-referenced with [offshoreleaks-data-packages](https://github.com/markramm/offshoreleaks-data-packages) for entity verification
+- **All researchers and journalists** working on transparency and accountability
 
 ---
 

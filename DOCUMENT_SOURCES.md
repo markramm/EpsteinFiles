@@ -13,7 +13,7 @@ This document provides instructions for downloading all publicly available Epste
 - **DOJ Sep 2025 (33,295 pages)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0)
 - **Estate Nov 2025 (20,000+ pages)**: [Google Drive Folder](https://drive.google.com/drive/folders/1Nc-qWHpGWrkUJ7_DO0o2-Ss_tVAfGasR)
 - **Estate Sep 2025 (2,000-5,000 pages est.)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/azl4abiwwixtvezmz0617/ANVZACgh4aPQ-TcxCKi0FDw?rlkey=aqg68si6y246f2b15kro9zmqh&e=2&st=7nh3wzuq&dl=0)
-- **Court Documents (Free)**: [Court Listener](https://www.courtlistener.com/) - *Search: "Giuffre Maxwell"*
+- **Court Documents**: [Google Drive Folder](https://drive.google.com/drive/folders/1TrGxDGQLDLZu1vvvZDBAh-e7wN3y6Hoz) - *Also: [Court Listener](https://www.courtlistener.com/) (free)*
 
 ---
 
@@ -86,11 +86,24 @@ This document provides instructions for downloading all publicly available Epste
 3. Contact Bloomberg reporters for data access
 
 ### 5. Court Documents - Various Unsealing Events
+- **Pages**: 1,000-5,000 estimated
+- **Source**: Federal courts (various unsealing events)
+- **Content**: Depositions, exhibits, court filings, correspondence
+- **Direct Download**: https://drive.google.com/drive/folders/1TrGxDGQLDLZu1vvvZDBAh-e7wN3y6Hoz
+- **Status**: ✅ **Ready to download** (Google Drive link available)
+
+**Download Instructions**:
+1. Click the Google Drive link above
+2. Click "Download" or three dots menu (⋮) to download folder as ZIP
+3. Extract the ZIP archive
+4. Move files to `/documents/court_documents/`
+5. Convert PDFs to text and rebuild index
+
+**Major Unsealing Events**:
 - **Ghislaine Maxwell Civil Case Documents (January 2024)**
   - Judge Loretta Preska ordered unsealing
   - Released January 4, 2024
   - Contains depositions, exhibits, correspondence
-  - Source: PACER (Public Access to Court Electronic Records)
   - Case: Giuffre v. Maxwell, 1:15-cv-07433 (S.D.N.Y.)
 
 - **DOJ Declassification (February 2025)**
@@ -98,10 +111,10 @@ This document provides instructions for downloading all publicly available Epste
   - Heavily redacted
   - Mostly previously reported information
 
-**Access**:
+**Alternative Access**:
 - PACER: https://pacer.uscourts.gov/ (paid access, $0.10/page)
-- Court records archive sites may have free copies
-- **Status**: ⏳ **Not yet downloaded**
+- Court Listener: https://www.courtlistener.com/ (free archive)
+- Archive.org: May have collections of unsealed documents
 
 ### 6. Currently Indexed Documents
 - **Pages**: 2,895 documents

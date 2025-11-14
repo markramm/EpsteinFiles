@@ -4,6 +4,10 @@
 **Sources**: Federal courts via PACER and public archives
 **Status**: ⏳ **Not yet downloaded**
 
+## Direct Download Link
+
+**Google Drive Folder**: https://drive.google.com/drive/folders/1TrGxDGQLDLZu1vvvZDBAh-e7wN3y6Hoz
+
 ## Major Court Document Releases
 
 ### 1. Giuffre v. Maxwell (January 2024)
@@ -37,7 +41,29 @@
 
 ## How to Download
 
-### Option 1: PACER (Official, Paid)
+### Option 1: Direct Google Drive Download (Recommended)
+
+**NEW**: A Google Drive folder with court documents is now available!
+
+1. **Visit the Google Drive link above**
+2. **Download the entire folder**:
+   - Click on the folder name
+   - Click the three dots menu (⋮) or "Download" button
+   - Select "Download" to get all files as ZIP
+   - Or download individual files if preferred
+3. **Extract downloaded files** (if ZIP archive)
+4. **Move files to this directory**: `/documents/court_documents/`
+5. **Convert PDFs to text**:
+   ```bash
+   cd /path/to/EpsteinFiles
+   python download_and_convert.py --convert documents/court_documents/
+   ```
+6. **Rebuild search index**:
+   ```bash
+   python search_index.py --force
+   ```
+
+### Option 2: PACER (Official, Paid)
 1. Create account: https://pacer.uscourts.gov/
 2. Costs $0.10 per page
 3. Free if quarterly charges < $30
@@ -45,14 +71,14 @@
 5. Download docket entries and documents
 6. Save PDFs to this directory
 
-### Option 2: Court Listener (Free Archive)
+### Option 3: Court Listener (Free Archive)
 1. Visit: https://www.courtlistener.com/
 2. Search: "Giuffre Maxwell" or "Jeffrey Epstein"
 3. Browse available documents
 4. Download PDFs (free)
 5. Save to this directory
 
-### Option 3: Archive.org
+### Option 4: Archive.org
 1. Search Archive.org for "Epstein court documents"
 2. Look for collections of unsealed documents
 3. Download available archives

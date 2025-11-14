@@ -61,9 +61,12 @@ DOCUMENT_SOURCES = {
     },
     "court_docs": {
         "dir": DOCS_DIR / "court_documents",
-        "description": "Court Documents",
+        "description": "Court Documents (1,000-5,000 pages est.)",
+        "google_drive_folder": "https://drive.google.com/drive/folders/1TrGxDGQLDLZu1vvvZDBAh-e7wN3y6Hoz",
         "urls": [
-            # Add PACER or court archive links here
+            # Note: Google Drive folder links require manual download via browser
+            # For individual file URLs, add them here for automated download
+            # Consider using gdown or rclone for automation
         ]
     }
 }

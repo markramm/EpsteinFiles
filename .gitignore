@@ -46,12 +46,8 @@ search_index/
 .coverage
 htmlcov/
 
-# Documents (large files - don't commit to git)
-documents/
-001/
-002/
+# PDFs excluded (use text files only)
 *.pdf
-*.txt
 
 # Analysis outputs (optional - may want to commit some)
 analysis/*.json

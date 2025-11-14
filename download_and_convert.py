@@ -33,9 +33,11 @@ DOCUMENT_SOURCES = {
     "doj_sep_2025": {
         "dir": DOCS_DIR / "doj_release_sep_2025",
         "description": "DOJ September 2025 Release (33,295 pages)",
+        "dropbox_folder": "https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0",
         "urls": [
-            # Add Google Drive or Dropbox links here when identified
-            # Example: "https://drive.google.com/file/d/XXXXX/view?usp=sharing"
+            # Note: Dropbox folder links require manual download via browser
+            # For individual file URLs, add them here for automated download
+            # Dropbox API or folder download tools would be needed for automation
         ]
     },
     "estate_nov_2025": {
@@ -269,8 +271,23 @@ def list_sources():
         print(f"\n{key}:")
         print(f"  Description: {source['description']}")
         print(f"  Directory: {source['dir']}")
+
+        # Show Dropbox folder if available
+        if 'dropbox_folder' in source:
+            print(f"  Dropbox Folder: {source['dropbox_folder']}")
+            print(f"  Note: Download manually via browser (Dropbox folder link)")
+
         print(f"  URLs configured: {len(source['urls'])}")
-        print(f"  Status: {'Ready to download' if source['urls'] else 'URLs not configured'}")
+
+        # Determine status
+        if source['urls']:
+            status = "Ready for automated download"
+        elif 'dropbox_folder' in source:
+            status = "Manual download available (Dropbox)"
+        else:
+            status = "URLs not configured"
+
+        print(f"  Status: {status}")
 
 
 def main():

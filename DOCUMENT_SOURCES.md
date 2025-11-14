@@ -6,6 +6,16 @@ This document provides instructions for downloading all publicly available Epste
 
 ---
 
+## Quick Links
+
+### Ready to Download Now
+
+- **DOJ Sep 2025 (33,295 pages)**: [Dropbox Folder](https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0)
+- **Estate Nov 2025 (20,000+ pages)**: [House Oversight Page](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/) - *Look for download links on page*
+- **Court Documents (Free)**: [Court Listener](https://www.courtlistener.com/) - *Search: "Giuffre Maxwell"*
+
+---
+
 ## Document Tranches Available
 
 ### 1. House Oversight Committee - September 2025 (DOJ Release)
@@ -14,8 +24,15 @@ This document provides instructions for downloading all publicly available Epste
 - **Source**: Department of Justice (via House Oversight subpoena)
 - **Content**: Court documents, flight records, previously public filings
 - **Official Page**: https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/
-- **Access**: Google Drive / Dropbox links on official page
-- **Status**: ⏳ **Not yet downloaded**
+- **Direct Download**: https://www.dropbox.com/scl/fo/98fthv8otekjk28lcrnc5/AIn3egnE58MYe4Bn4fliVBw?rlkey=m7p8e9omml96fgxl13kr2nuyt&e=1&dl=0
+- **Status**: ✅ **Ready to download** (Dropbox link available)
+
+**Download Instructions**:
+1. Click the Dropbox link above
+2. Click "Download" → "Download Folder" to get all files
+3. Extract the ZIP archive if needed
+4. Move files to `/documents/doj_release_sep_2025/`
+5. Convert PDFs to text and rebuild index
 
 **Note**: Per House Democrats, 97% of these documents were already in the public domain, with ~3% (under 1,000 pages) being new flight location data.
 

@@ -47,7 +47,7 @@ This document presents **only the highest-confidence findings** from systematic 
 | **Trump Model Management** | 2,159 | Trump modeling agency |
 | **Clinton Foundation** | 947 | Foundation referenced |
 | **Gates Foundation** | 480 | Foundation referenced |
-| **Mar-a-Lago** | 302 | Trump property where Epstein recruited |
+| **Mar-a-Lago** | 302 | Trump property where Virginia Roberts Giuffre (age 15) and others were recruited (HOUSE_OVERSIGHT_022990, 030972) |
 | **Limited Brands** | 310 | Wexner's company |
 | **Wexner Foundation** | 422 | Wexner philanthropic vehicle |
 | **non-prosecution** | 469 | Epstein's 2008 plea deal |
@@ -99,7 +99,56 @@ These entities appear in the Epstein files with sufficient detail to establish b
 
 ---
 
+## Part 2A: Mar-a-Lago Recruitment Evidence
+
+### Documented Victim Recruitment
+
+**Virginia Roberts Giuffre**:
+- **Age at recruitment**: 15 years old
+- **Location**: Mar-a-Lago, Trump's Palm Beach resort
+- **Job**: $9/hour "towel girl" in locker room (her father worked maintenance at Mar-a-Lago)
+- **Recruiter**: Ghislaine Maxwell
+- **Source**: Court filings, multiple document references (HOUSE_OVERSIGHT_022990, 022977, 030972)
+
+**Key Quote from Court Records** (HOUSE_OVERSIGHT_022990):
+> "Virginia Roberts Giuffre claimed she was 15 when Maxwell recruited her from her $9-an-hour job in the locker room at Mar-a-Lago, where her father had a job as a maintenance worker. Giuffre claims in court records that Maxwell introduced her to Epstein and that Epstein turned her into his international sex slave."
+
+### Trump's Knowledge: Epstein's Own Words
+
+**Email from Epstein to Author Michael Wolff** (January 31, 2019, HOUSE_OVERSIGHT_030411):
+> "[she] worked at mara lago. . she was the one that accused prince andrew. . trump said he asked me to resign, never a member ever. . **of course he knew about the girls as he asked ghislaine to stop**"
+
+**Analysis**:
+- Epstein states Trump "of course knew about the girls"
+- Trump's response: Asked Ghislaine to "stop" (not: contacted authorities, not: severed relationship)
+- Email written January 2019, before Epstein's arrest, as contemporaneous account
+
+### Additional Recruitment References
+
+**HOUSE_OVERSIGHT_030972**:
+> "recruited from local restaurants, strip clubs, and, also, Trump's Mar-a-Lago"
+
+**What This Evidence Shows**:
+- At least one documented victim (Giuffre) recruited from Mar-a-Lago at age 15
+- Epstein claimed Trump knew about "the girls" and asked Maxwell to stop
+- Mar-a-Lago identified as recruitment location alongside other venues
+- Trump's property provided access to young women working low-wage jobs
+
+**What This Does NOT Show**:
+- Trump participating in abuse (no direct evidence in documents)
+- Trump recruiting victims himself (Maxwell identified as recruiter)
+- Trump's criminal liability (that requires separate legal determination)
+
+**Legal Status**:
+- Giuffre testimony well-documented in court records
+- Epstein email is primary source document
+- No criminal charges filed against Trump related to Mar-a-Lago recruitment
+
+---
+
 ## Part 3: Policy Timeline Correlations
+
+**Note on Interpretation**: The following section documents policy decisions and their beneficiaries. The presentation of these correlations does not assert causation or corrupt intent. Rather, it identifies patterns worthy of investigation and demonstrates why full transparency is necessary for public accountability.
 
 ### Verified Policy-Benefit Chains
 
@@ -155,7 +204,7 @@ These are documented policy decisions with verifiable beneficiaries:
 **Officials**:
 - Alexander Acosta (US Attorney, Miami)
 - Document mentions: 165 Acosta references
-- Later quoted as saying Epstein was "intelligence" and "above my pay grade"
+- Later reported as saying Epstein was "intelligence" and "above my pay grade" (widely reported 2019, The Daily Beast)
 
 **Direct Beneficiaries**:
 - Epstein (avoided life sentence)
